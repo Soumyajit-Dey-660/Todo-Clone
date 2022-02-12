@@ -1,0 +1,18 @@
+.nav-style {
+    
+}
+
+.sidebar {
+    background-color: beige;
+    width: 30%;
+}
+
+.app-name {
+    height: 0.5em;
+    margin: 1em;
+    font-size: 0.8rem;
+}
+
+hr {
+    margin: 0 0.5em;
+}

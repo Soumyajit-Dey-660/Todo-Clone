@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* CSS helper classes */
+.text-xl {
+  font-size: 2.5rem;
+}
+
+.text-l {
+  font-size: 1.5rem;
+}
+
+.text-s {
+  font-size: 0.75rem;
+}
+
+/* Main style */
+.App {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+}
+
+.main-container {
+  width: 100%;
+}
